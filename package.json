@@ -1,20 +1,20 @@
 {
   "name": "mqtt-dss-bridge",
   "description": "MQTT digitalSTROM-Server Bridge",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Chris Gross",
   "copyright": "Copyright © 2015 [cgHome]. All rights reserved.",
   "license": "MIT",
   "contributors": [
     "Chris Gross <cgHome@gmx.net>"
   ],
-  "homepage": "https://github.com/cgHome/mqtt-dss-bridge#readme",
+  "homepage": "https://github.com/capcoolalien/mqtt-dss-bridge#readme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/cgHome/mqtt-dss-bridge.git"
+    "url": "git://github.com/capcoolalien/mqtt-dss-bridge.git"
   },
   "bugs": {
-    "url": "git://github.com/cgHome/mqtt-dss-bridge/issues"
+    "url": "git://github.com/capcoolalien/mqtt-dss-bridge/issues"
   },
   "keywords": [
     "mqtt-dss-bridge",
